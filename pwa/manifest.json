@@ -1,0 +1,30 @@
+{
+  "name": "CodeAgents Mobile",
+  "short_name": "CodeAgents",
+  "description": "Claude AI + SSH Remote Development on Mobile",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6750A4",
+  "theme_color": "#6750A4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='a' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%236750A4'/><stop offset='1' stop-color='%23764ba2'/></linearGradient></defs><rect width='192' height='192' fill='url(%23a)' rx='24'/><text x='96' y='140' font-size='100' text-anchor='middle' fill='white'>🤖</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='a' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%236750A4'/><stop offset='1' stop-color='%23764ba2'/></linearGradient></defs><rect width='512' height='512' fill='url(%23a)' rx='64'/><text x='256' y='350' font-size='260' text-anchor='middle' fill='white'>🤖</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["developer", "productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 390 844'><rect width='390' height='844' fill='%23f0f0f0'/><text x='195' y='422' font-size='24' text-anchor='middle' fill='%23666'>CodeAgents Mobile Screenshot</text></svg>",
+      "sizes": "390x844",
+      "type": "image/svg+xml"
+    }
+  ]
+}
